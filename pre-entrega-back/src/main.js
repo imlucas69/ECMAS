@@ -63,4 +63,4 @@ Productos.addProducts("titulo2", "descripcion2", 1000, "img2", "abc124", 7);
 
 Productos.getProductsById(2)
 
-Productos.getProductsById(3)
+Productos.getProductsById(4)

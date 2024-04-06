@@ -1,0 +1,12 @@
+{
+  "name": "pre-entrega-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
